@@ -1,0 +1,6 @@
+.env
+.secrets/
+*.key
+*.pem
+.DS_Store
+cal-helper/target/
